@@ -2,7 +2,7 @@
   "name": "survey",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OyugiKO.github.io/survey-app/",
+  "homepage": "https://OyugiKO.github.io/survey/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
