@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/OyugiKO/survey.svg?branch=master)](https://travis-ci.org/OyugiKO/survey)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
