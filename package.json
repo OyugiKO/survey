@@ -31,10 +31,16 @@
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
     "react-test-renderer": "^16.0.0",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^15.13.3",
+    "semantic-release-tamia": "^2.2.4"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/OyugiKO/survey.git"
+  },
+  "release": {
+    "analyzeCommits": "semantic-release-tamia/analyzeCommits",
+    "generateNotes": "semantic-release-tamia/generateNotes",
+    "verifyRelease": "semantic-release-tamia/verifyRelease"
   }
 }
