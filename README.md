@@ -4,14 +4,6 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 
-[![Build Status][build]][link]
-[![semantic-release][semantic-image] ][semantic-url]
-[build]: https://travis-ci.org/<username>/<repo>.svg?branch=master
-[link]: https://travis-ci.org/<username>/<repo>
-[semantic-image]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
-[semantic-url]: https://github.com/semantic-release/semantic-release
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
