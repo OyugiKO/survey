@@ -1,6 +1,6 @@
 {
   "name": "survey",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "homepage": "https://OyugiKO.github.io/survey/",
   "dependencies": {
@@ -14,7 +14,8 @@
     "test": "CI=true react-scripts test --env=jsdom",
     "test:coverage": "npm test -- --coverage",
     "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "semantic-release": "semantic-release"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -29,6 +30,11 @@
     "coveralls": "^3.0.2",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
-    "react-test-renderer": "^16.0.0"
+    "react-test-renderer": "^16.0.0",
+    "semantic-release": "^15.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OyugiKO/survey.git"
   }
 }
