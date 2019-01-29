@@ -12,6 +12,10 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
+          <p>
+            This is quite a simple react thing we hope that all we have done here will allow developers use
+            the best practice for making react webApps.
+          </p>
           <a
             className="App-link"
             href="https://reactjs.org"
